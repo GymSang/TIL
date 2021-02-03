@@ -1,0 +1,14 @@
+package com.tuto.java.variable;
+
+public class String {
+
+	public static void main(java.lang.String[] args) {
+//		String first;
+//		first = "coding";
+		
+		String f = "fuck";
+		
+
+	}
+
+}

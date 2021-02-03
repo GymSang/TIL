@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyProfile.java&apos; to &apos;Java2_hello/src/com.ksw&apos;&#x0D;&#x0A;- Original project: &apos;Java4_type&apos;&#x0D;&#x0A;- Destination element: &apos;Java2_hello/src/com.ksw&apos;&#x0D;&#x0A;- Original element: &apos;org.group_a.MyProfile.java&apos;" description="Copy compilation unit" destination="=Java2_hello/src&lt;com.ksw" element1="/src&lt;org.group_a{MyProfile.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1611649039835" units="1" version="1.0"/>
+</session>

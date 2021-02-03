@@ -1,0 +1,6 @@
+package test.shape;
+//이름만으로도 의미가 있다. shape가.
+public class Shape {
+	
+
+}

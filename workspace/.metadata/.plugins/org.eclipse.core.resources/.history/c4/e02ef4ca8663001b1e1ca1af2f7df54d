@@ -1,0 +1,10 @@
+package com.tuto.java.number;
+
+public class Number {
+
+	public static void main(String[] args) {
+		System.out.println("생활"+"코딩");
+
+	}
+
+}

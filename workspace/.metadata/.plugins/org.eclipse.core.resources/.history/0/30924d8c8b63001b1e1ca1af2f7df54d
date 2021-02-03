@@ -1,0 +1,12 @@
+package com.tuto.java.variable;
+
+public class String {
+
+	public static void main(java.lang.String[] args) {
+         java.lang.String fist = "five";
+         System.out.println(fist);
+		
+
+	}
+
+}
