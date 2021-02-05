@@ -21,7 +21,7 @@ public class Rectangle extends Shape{
 		}
 	}
 
-	public void area() {
+	public void area() { //재정의
 		System.out.println("사각형의 넓이="+(w*h));
 	}
 

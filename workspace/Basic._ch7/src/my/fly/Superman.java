@@ -1,6 +1,6 @@
 package my.fly;
 
-public class Superman extends Human {
+public class Superman extends Human implements Flyer{
 	
 	@Override
 	public void eat() {

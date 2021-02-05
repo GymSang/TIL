@@ -1,6 +1,6 @@
 package my.fly;
 
-public class Bird extends Animal{
+public class Bird extends Animal implements Flyer{
 	
 	@Override
 	public void eat() {

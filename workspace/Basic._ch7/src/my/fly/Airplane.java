@@ -1,6 +1,6 @@
 package my.fly;
 
-public class Airplane extends Vehicle {
+public class Airplane extends Vehicle implements Flyer{
 	
 //	@Override
 //	public int transfer(int start, int end) {
