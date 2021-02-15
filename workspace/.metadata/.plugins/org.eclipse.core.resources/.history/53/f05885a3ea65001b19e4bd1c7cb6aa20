@@ -1,8 +1,0 @@
-package my.shop;
-
-public class Mornitor {
-
-		public void monitorPoint(Customer c) {
-			c.calcPoint();
-		}
-}

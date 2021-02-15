@@ -15,4 +15,8 @@
 		<item value="true" key="replaceOccurrences"/>
 		<item value="false" key="declareFinal"/>
 	</section>
+	<section name="InferTypeArguments">
+		<item value="true" key="leaveUnconstrainedRaw"/>
+		<item value="true" key="assumeCloneReturnsSameType"/>
+	</section>
 </section>

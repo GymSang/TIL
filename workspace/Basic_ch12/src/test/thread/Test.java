@@ -16,7 +16,14 @@ public class Test {
 class A extends Thread{
 	public void run() {
 		for(int i=0;i<111;i++) {
-			System.out.println(i);
+			System.out.println(getName()+":"+i+"+1="+(i+1));
+			if(i==50) {
+				try {
+					sleep(3000);
+				} catch (InterruptedException e) {
+					e.printStackTrace();
+				}
+			}
 		}
 	
 	}
